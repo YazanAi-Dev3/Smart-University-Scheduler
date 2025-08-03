@@ -1,0 +1,15 @@
+course_id,teacher_id,room_id,timeslot,Day,Time
+CS102,2,R101,Monday_12:00,Monday,12:00
+CS102,2,R101,Monday_15:00,Monday,15:00
+CS101,1,R201,Sunday_08:00,Sunday,08:00
+CS202,1,R102,Sunday_10:00,Sunday,10:00
+CS101,1,R201,Sunday_11:00,Sunday,11:00
+CS101,1,R102,Sunday_12:00,Sunday,12:00
+CS202,1,R102,Sunday_13:00,Sunday,13:00
+CS301,3,R101,Thursday_16:00,Thursday,16:00
+CS401,3,R101,Tuesday_12:00,Tuesday,12:00
+CS401,3,R201,Tuesday_13:00,Tuesday,13:00
+CS401,3,R201,Tuesday_14:00,Tuesday,14:00
+CS401,3,R201,Tuesday_15:00,Tuesday,15:00
+CS201,4,R102,Wednesday_09:00,Wednesday,09:00
+CS201,4,R102,Wednesday_10:00,Wednesday,10:00
