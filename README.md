@@ -42,3 +42,34 @@ To understand the project, please view the Jupyter Notebooks in the following or
 1.  Open and run the cells in `1_Master_Schedule_Generation.ipynb`.
 2.  Then, open and run the cells in `2_Student_Schedule_Generation.ipynb`.
 
+---
+
+## ⚙️ Setup & Installation
+
+To run this project on your local machine, follow these steps:
+
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/YazanAi-Dev3/Smart-University-Scheduler.git](https://github.com/YazanAi-Dev3/Smart-University-Scheduler.git)
+    cd Smart-University-Scheduler
+    ```
+
+2.  **Create a virtual environment (recommended):**
+    ```sh
+    # For Windows
+    python -m venv venv
+    venv\Scripts\activate
+
+    # For macOS/Linux
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+
+3.  **Install the required libraries:**
+    ```sh
+    pip install -r requirements.txt
+    ```
+Now you are ready to open and run the Jupyter Notebooks.
+
+---
+
