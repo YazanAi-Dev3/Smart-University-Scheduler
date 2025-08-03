@@ -25,7 +25,7 @@ The system operates in two distinct phases, demonstrated in two separate Jupyter
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 -   **Language:** Python
 -   **Libraries:**
@@ -41,3 +41,4 @@ To understand the project, please view the Jupyter Notebooks in the following or
 
 1.  Open and run the cells in `1_Master_Schedule_Generation.ipynb`.
 2.  Then, open and run the cells in `2_Student_Schedule_Generation.ipynb`.
+
