@@ -2,7 +2,7 @@
 
 This project is an intelligent two-part scheduling system designed to solve complex timetabling problems for a university. It uses Genetic Algorithms to first generate a conflict-free master schedule for all courses and then create an optimal, personalized schedule for individual students.
 
-## ✨ Key Features
+##  Key Features
 
 - **Two-Part System:** Logically separates the master scheduling problem from the student scheduling problem.
 - **Genetic Algorithm Core:** Utilizes the `pygad` library to handle complex optimization and find near-optimal solutions.
@@ -10,7 +10,7 @@ This project is an intelligent two-part scheduling system designed to solve comp
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 To run this project on your local machine, follow these steps:
 
@@ -39,7 +39,7 @@ Now you are ready to open and run the Jupyter Notebooks.
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 The system operates in two distinct phases, demonstrated in two separate Jupyter Notebooks:
 
@@ -53,7 +53,7 @@ The system operates in two distinct phases, demonstrated in two separate Jupyter
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 -   **Language:** Python
 -   **Libraries:**
@@ -63,7 +63,7 @@ The system operates in two distinct phases, demonstrated in two separate Jupyter
 
 ---
 
-## 🏃 How to Run
+##  How to Run
 
 To understand the project, please view the Jupyter Notebooks in the following order:
 
